@@ -1,0 +1,45 @@
+hotel_name,room_id,room_type,no_of_rooms,is_booked,price
+Hilton,1,Single,10,1,100
+Hilton,2,Double,20,1,150
+Hilton,3,Twin,15,1,130
+Hilton,4,Suite,2,1,200
+Sheraton,5,Single,5,1,90
+Sheraton,6,Double,12,1,120
+Sheraton,7,Twin,8,1,110
+Sheraton,8,Suite,3,1,150
+Marriott,9,Single,7,1,95
+Marriott,10,Double,10,1,140
+Marriott,11,Twin,15,1,120
+Marriott,12,Suite,3,1,175
+InterContinental,13,Single,3,1,80
+InterContinental,14,Double,8,1,135
+InterContinental,15,Twin,5,1,125
+InterContinental,16,Suite,2,1,180
+Westin,17,Single,6,1,85
+Westin,18,Double,14,1,130
+Westin,19,Twin,9,1,115
+Westin,20,Suite,4,1,200
+Hyatt,21,Single,9,1,95
+Hyatt,22,Double,18,1,125
+Hyatt,23,Twin,12,1,110
+Hyatt,24,Suite,5,1,160
+Four Seasons,25,Single,4,1,80
+Four Seasons,26,Double,6,1,115
+Four Seasons,27,Twin,7,1,105
+Four Seasons,28,Suite,2,1,150
+Ritz Carlton,29,Single,11,1,100
+Ritz Carlton,30,Double,20,1,145
+Ritz Carlton,31,Twin,15,1,125
+Ritz Carlton,32,Suite,7,1,210
+Mandarin Oriental,33,Single,8,1,90
+Mandarin Oriental,34,Double,10,1,135
+Mandarin Oriental,35,Twin,13,1,120
+Mandarin Oriental,36,Suite,4,1,197
+St. Regis,37,Single,5,1,85
+St. Regis,38,Double,12,1,130
+St. Regis,39,Twin,9,1,110
+St. Regis,40,Suite,3,1,210
+Holidayinn,41,Single,6,1,45
+Holidayinn,42,Double,12,1,105
+Holidayinn,43,Twin,24,1,85
+Holidayinn,44,Suite,5,1,169
